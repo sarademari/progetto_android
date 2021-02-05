@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name2">App Cinema</string>
+    
+    <string-array name="list_film">
+        <item>Twilight</item>
+        <item>Maze Runner</item>
+        <item>The social dilemma</item>
+    </string-array>
+</resources>
